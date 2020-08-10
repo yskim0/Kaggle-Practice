@@ -10,3 +10,8 @@
 
 - [Kaggle-KR](https://github.com/yskim0/Kaggle-Practice/blob/master/Titanic%20Competition/Titanic%20competition%20-%20Tutorial1.ipynb)
 - [EDA To Prediction(DieTanic)](https://github.com/yskim0/Kaggle-Practice/blob/master/Titanic%20Competition/EDA%20To%20Prediction(DieTanic).ipynb)
+
+
+2. 2nd level. Porto Seguro’s Safe Driver Prediction 
+
+- [Data Preparation & Exploration]
