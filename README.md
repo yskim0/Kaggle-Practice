@@ -12,6 +12,6 @@
 - [EDA To Prediction(DieTanic)](https://github.com/yskim0/Kaggle-Practice/blob/master/Titanic%20Competition/EDA%20To%20Prediction(DieTanic).ipynb)
 
 
-2. 2nd level. Porto Seguro’s Safe Driver Prediction 
+2. 2nd level. Porto Seguro’s Safe Driver Prediction | [해당 폴더 링크](https://github.com/yskim0/Kaggle-Practice/tree/master/Porto%20Seguro%E2%80%99s%20Safe%20Driver%20Prediction)
 
-- [Data Preparation & Exploration]
+- [Data Preparation & Exploration](https://github.com/yskim0/Kaggle-Practice/blob/master/Porto%20Seguro%E2%80%99s%20Safe%20Driver%20Prediction/Data%20Preparation%20%26%20Exploration-%20Porto.ipynb)
